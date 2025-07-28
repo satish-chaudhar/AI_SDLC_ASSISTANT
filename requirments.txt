@@ -1,0 +1,10 @@
+langchain
+openai 
+chromadb
+fastapi
+streamlit
+uvicorn 
+python-multipart
+openai
+streamlit
+python-docx
